@@ -1,0 +1,1 @@
+This describes the project I'm currently working on. It's not very impressive yet - just a simple index page and some javascript prescribed by the lesson flow - but it'll get better over time if I work on it.
